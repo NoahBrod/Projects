@@ -1,0 +1,16 @@
+.entity-scroll {
+    max-height: 20rem;
+    overflow-y: auto;
+    border: 2px solid black;
+}
+
+.entity-scroll-item {
+    margin: 1rem;
+    padding: 0.5rem;
+    border: 2px solid black;
+}
+
+.entity-scroll-item:hover {
+    background-color: lightgray;
+    cursor: pointer;
+}
